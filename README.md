@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">assionate software engineer with a love for solving problems and creating meaningful digital experiences.</p>
+<p align="left">passionate software engineer with a love for solving problems and creating meaningful digital experiences.</p>
 
 ###
 
